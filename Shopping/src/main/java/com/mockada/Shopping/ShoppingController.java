@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.mockada.Shopping.reposity.ProductRepository;
+import com.mockada.Shopping.repository.ProductRepository;
 
 @RestController
 @EnableMongoRepositories
