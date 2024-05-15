@@ -1,4 +1,4 @@
-package com.mockada.Shopping;
+package com.mockada.Shopping.models;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
